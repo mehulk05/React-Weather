@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:500,700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:700&display=swap');
 body {
-  background-image: linear-gradient(to top right, rgb(35, 147, 151), #ac6310);
+  background-image: linear-gradient(to top right, rgb(35, 147, 151), lightgrey);
   height: 100vh;  
 }
 
@@ -17,7 +17,7 @@ body {
 
 .form-container {
   text-align: center;
-  background-color : rgb(211, 115, 77);   
+  background-color : rgb(31, 31, 30)  
 }
 
 .weather-container {
